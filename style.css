@@ -276,8 +276,8 @@ body {
 
 
 .tuong {
-  background-image: url('https://res.cloudinary.com/dvhbsf1fm/image/upload/v1669455464/t1_wwgof0.jpg');
-  /* background-image: url('https//res.cloudinary.com/dvhbsf1fm/image/upload/v1669455038/My_project-1_1_xw96cq.jpg'); */
+  /* background-image: url('https://res.cloudinary.com/dvhbsf1fm/image/upload/v1669455464/t1_wwgof0.jpg'); */
+  background-image: url('https://res.cloudinary.com/dvhbsf1fm/image/upload/v1669455038/My_project-1_1_xw96cq.jpg');
   background-repeat: no-repeat, repeat;
   background-size: cover;
   z-index: 1;
